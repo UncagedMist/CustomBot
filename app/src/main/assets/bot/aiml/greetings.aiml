@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+<category>
+    <pattern>hi</pattern>
+    <template>Hello, there!</template>
+</category>
+
+<category>
+    <pattern>name</pattern>
+    <template>Gideon</template>
+</category>
+
+<category>
+    <pattern>creator</pattern>
+    <template>Tech Byte Care</template>
+</category>
+
+<category>
+    <pattern>who</pattern>
+    <template>ai</template>
+</category>
+	
+</aiml>
+
